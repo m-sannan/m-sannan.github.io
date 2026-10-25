@@ -1,4 +1,21 @@
 User-agent: *
 Allow: /
 
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Bravebot
+Allow: /
+
 Sitemap: https://m-sannan.github.io/sitemap.xml
+# Portfolio Sitemap: https://msannan.vercel.app/sitemap.xml
+# LLMs: https://msannan.vercel.app/llms.txt
